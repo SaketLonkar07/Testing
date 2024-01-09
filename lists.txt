@@ -1,0 +1,3 @@
+ls
+
+ls -a --->it will display hidden files as well
